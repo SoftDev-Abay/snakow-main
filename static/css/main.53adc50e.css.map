@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.53adc50e.css","mappings":"AAAA,KAME,qBAAsB,CALtB,YAAa,CAEb,QAAS,CACT,SAAU,CAFV,WAKF,CAEA,MACE,WAAY,CACZ,UACF","sources":["index.css"],"sourcesContent":["body {\n  height: 100vh;\n  width: 100vw;\n  margin: 0;\n  padding: 0;\n\n  font-family: monospace;\n}\n\n#root {\n  height: 100%;\n  width: 100%;\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snakow-main/static/css/main.53adc50e.css",
+    "main.js": "/snakow-main/static/js/main.7ba18985.js",
+    "index.html": "/snakow-main/index.html",
+    "main.53adc50e.css.map": "/snakow-main/static/css/main.53adc50e.css.map",
+    "main.7ba18985.js.map": "/snakow-main/static/js/main.7ba18985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53adc50e.css",
+    "static/js/main.7ba18985.js"
+  ]
+}
