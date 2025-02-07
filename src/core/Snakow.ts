@@ -75,7 +75,7 @@ export class Snakow {
 
   playFunnySound = () => {
     const sound = SOUNDS[Math.round(SOUNDS.length * Math.random())];
-    const audio = new Audio(`/sounds/${sound}`);
+    const audio = new Audio(`${process.env.PUBLIC_URL}/sounds/${sound}`);
     audio.play();
   };
 
